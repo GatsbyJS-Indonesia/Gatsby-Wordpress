@@ -8,4 +8,4 @@
 </h1>
 
 ## Author
-✔ KOmunitas Gatsby Indonesia 👨‍👩‍👧
+✔ Komunitas Gatsby Indonesia 👨‍👩‍👧
